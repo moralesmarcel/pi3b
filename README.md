@@ -12,4 +12,4 @@ Desenvolvido pelos alunos:
 
 A página foi desenvolvida usando framework bootstrap.
 
-PS: O código é aberto e o seu uso é gratuito, porém lembre-se sempre de conceder os créditos aos desenvolvedores.
+*PS: O código é aberto e o seu uso é gratuito, porém lembre-se sempre de conceder os créditos aos desenvolvedores.*
